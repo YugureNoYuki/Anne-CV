@@ -293,6 +293,16 @@
 
 
 /* // Gallery Cycle Slider */
+@media (min-width: 768px) {
+	.caption1 { font-size:32px;}
+	.responsive{
+		height: auto!important;
+		width: 88%!important;
+		margin-left:6%!important;
+	}
+	
+}
+
 @media (min-width: 481px) and (max-width: 767px) {
 	.caption1 { font-size:32px;}
 	.responsive{
